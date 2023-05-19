@@ -1,5 +1,5 @@
 # CHANGE-TO-YOURNAME-aws-node-http-api-project
-service: jt-new-serverless
+service: jt-new-serverless-aws-node-http-ape-project
 frameworkVersion: '3'
 
 provider:
